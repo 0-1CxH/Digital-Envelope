@@ -33,3 +33,8 @@ The python program contains functions that generate new key pair with assigned k
 Proto of the function is **def newKey(keylen, writeTofile=True)**, which write keys to file defaultly.
 ## Scratch Part
 In the scratch dir are 4 demostrations of how basic functions in lib are used, giving a crash course to understand the unclear lines in this project.
+
+
+## Future Work
+Add Kit Select Module for Sender and Reciever to negotiate for a common kit.<br>
+Add Verification to check the imported keys' anthentication. <br>
